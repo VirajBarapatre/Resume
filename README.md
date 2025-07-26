@@ -63,7 +63,3 @@ I am an aspiring Machine Learning Engineer with a passion for building intellige
 
 ---
 
-### ⭐ Let's build the future of AI together!
-
-Would you like me to generate the file and provide a download link?
-
