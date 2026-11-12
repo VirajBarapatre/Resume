@@ -15,7 +15,7 @@ A RAG chatbot built so a recruiter can just ask it. It splits my documents into 
 **Live demo:** https://virajs-ask-my-portfolio.streamlit.app
 Stack: Python, LangChain, FAISS, Groq API, Ollama, Streamlit
 
-### Agentic RAG Portfolio: a tool-calling agent with an evaluation harness (in progress)
+### Agentic RAG Portfolio: a tool-calling agent with an evaluation harness
 A LangGraph agent that chooses between document search, a calculator, and a read-only SQL tool, or refuses when a question is out of scope. It comes with a 40-question evaluation set scored on tool choice, correctness, and groundedness (35/40 on the first run), a written failure analysis, and a list of reasons the score may be overstated.
 Repo: https://github.com/VirajBarapatre/Agentic-RAG-Portfolio
 Stack: Python, LangGraph, Groq API, sentence-transformers, FAISS, SQLite, pytest
